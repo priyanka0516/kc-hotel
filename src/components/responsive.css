@@ -1,0 +1,57 @@
+@media only screen and (max-width: 480px) {
+    .box-4 {
+        display: none;
+    }
+    .about-section {
+        padding: 20px 0px;
+    }
+    .service-text h2{
+        font-size: 25px;
+    }
+    .top-section {
+        padding: 20px 0px;
+    }
+    .top-service h2 {
+        font-size: 25px;
+    }
+    .offers h2 {
+        font-size: 25px;
+    }
+    .testimonial-text h2 {
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .box-4 {
+        bottom: 30px;
+        left: -55px;
+    }
+    .box {
+        height: 140px;
+        width: 170px;
+    }
+    .text-2 {
+        font-size: 17px;
+    }
+    .text-3 {
+        font-size: 14px;
+    }
+    .about-section {
+        padding: 20px 0px;
+    }
+    .service-text h2{
+        font-size: 25px;
+    }
+    .top-section {
+        padding: 20px 0px;
+    }
+    .top-service h2 {
+        font-size: 25px;
+    }
+    .offers h2 {
+        font-size: 25px;
+    }
+    .testimonial-text h2 {
+        font-size: 25px;
+    }
+}
